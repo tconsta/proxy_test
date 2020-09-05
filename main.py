@@ -1,4 +1,3 @@
-# This is a sample Python script.
 import requests
 from bs4 import BeautifulSoup
 from random import choice, uniform
